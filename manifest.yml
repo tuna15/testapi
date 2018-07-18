@@ -1,0 +1,9 @@
+path: .
+memory: 256M
+instances: 1
+domain: mybluemix.net
+name: helloApi
+host: helloApi
+disk_quota: 1G
+env:
+  NODE_ENV: bluemix
